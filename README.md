@@ -5,4 +5,4 @@ Een gratis, offline werkende app (PWA) om Nederlands te gebruiken in gesprekken.
 Deze map is een complete app. Zet de **inhoud** van deze map in een eigen GitHub-repository (bijvoorbeeld `speechpartner-dutch`) en zet GitHub Pages aan.
 Gebruik niet de repository van de Spaanse app: elke taal heeft zijn eigen repository en zijn eigen webadres.
 
-Versie 1.1
+Versie 2.0
