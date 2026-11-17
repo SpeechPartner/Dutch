@@ -1,6 +1,6 @@
 {
-  "name": "Speech Partner.Dutch",
-  "short_name": "SP Dutch",
+  "name": "SpeechPartner.Dutch",
+  "short_name": "SpeechPartner.Dutch",
   "description": "Sentences, translation and practice for a conversation in Dutch.",
   "lang": "en",
   "start_url": "./",

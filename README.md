@@ -1,4 +1,4 @@
-# Speech Partner.Dutch
+# SpeechPartner.Dutch
 
 Een gratis, offline werkende app (PWA) om Nederlands te gebruiken in gesprekken. Geen account, geen server, geen kosten.
 
